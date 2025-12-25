@@ -7,3 +7,4 @@
 ## 已完成
 - [x] 安装 Git
 - [x] push 到云端
+- [x] 创建 GitHub 仓库
